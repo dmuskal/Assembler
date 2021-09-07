@@ -53,3 +53,5 @@ count).
 If one or more files had raised some errors-those errors will be printed to screen (with the relevant file name
 and with an indication of the line number which has raised the error).
 For files which had lines with errors inside them-any output files won't be generated.
+
+**Example usage can be seen in assemblerScreenCapture.PNG
